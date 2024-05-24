@@ -1,44 +1,31 @@
-# Yazlab-3D-Anatomi-Projesi
+# Educational Anatomy AR App for Kids
+
 # My Flutter 3D ARCore Project
 
-Bu projem, Flutter kullanılarak geliştirilmiştir ve ARCore teknolojisi ile 3D görselleri kullanarak çocuklara insan anatomisi hakkında eğitici içerik sunmayı amaçlamaktadır.
-Bu proje Kocaeli Üniversitesi YazLab dersi için Tasarlanmış ve Kodlanmıştır.
+This project is developed using Flutter and aims to provide educational content about human anatomy to children through the use of ARCore technology and 3D visuals. It was designed and coded for the YazLab course at Kocaeli Universitr.
 
-## Proje İçeriği
-
-Projemde, çocukların insan anatomisini daha iyi anlamalarını sağlamak amacıyla 8 farklı organın tanıtımını içermektedir. Bu organlar şunlardır:
-- Kalp
-- Beyin
-- Akciğerler
-- Karaciğer
-- Mide
-- Böbrekler
-- Bağırsaklar
-- Deri
-
-Çocuklar, bu organları 3D olarak inceleyebilir ve etkileşimde bulunabilirler. Bu sayede eğlenceli ve interaktif bir öğrenme deneyimi sunmayı hedefliyoruz.
-
-## Kullanılan Teknolojiler
-
-Projemde ARCore özelliğini entegre etmek için `ar_flutter_plugins` kütüphanesinden faydalandım. Bu kütüphane, 3D görselleri gerçek dünya ile birleştirerek artırılmış gerçeklik deneyimi sağlar.
-
-## Nasıl Başlatılır?
-
-Proje dosyalarını yerel olarak klonlayarak veya indirerek Flutter geliştirme ortamınızda çalıştırabilirsiniz. Aşağıdaki adımları izleyerek projeyi başlatabilirsiniz:
-
-1. Projeyi klonlayın veya indirin: `git clone https://github.com/Arifcngk`
-2. Projeyi Flutter ortamınızda açın.
-3. Gerekli paketleri yüklemek için terminalde `flutter pub get` komutunu çalıştırın.
-4. Emülatörde veya fiziksel bir cihazda projeyi çalıştırın: `flutter run`
+## Project Overview
 
 
-## İletişim
+The app introduces eight different organs to help children better understand human anatomy. The organs included are:
+- Heart
+- Brain
+- lungs
+- liver
+- Stomach
+- Kidneys
+- Intestines
+- Skin
 
-Herhangi bir sorunuz veya öneriniz varsa, benimle iletişime geçmekten çekinmeyin. E-posta: arifcngk@gmail.com
+Children can explore and interact with these organs in 3D, providing a fun and interactive learning experience..
 
-Teşekkür ederim!
+## Technologies Used
 
---- Yazan: [Arif Can GÖK] ---
---- Yazan: [Kerem Yiğit BARIN] ---
---- Yazan: [Mehmet SEZER] ---
+- Flutter: For building the cross-platform mobile application.
+- ARCore: For integrating augmented reality features.
+- ar_flutter_plugin: A Flutter plugin used to integrate ARCore functionality and provide a seamless AR experience.
+
+
+
+
 
